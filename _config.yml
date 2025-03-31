@@ -2,6 +2,6 @@ title: Aaron Meza
 description: >-  
   Portfolio, blog, and career hub of Aaron Meza.
 baseurl: "" # Leave blank for root
-url: "https://aaronmeza.github.io/website/" # update if using GitHub Pages
-theme: minima # or another supported theme
+url: "https://www.aaron-meza.com/" # update if using GitHub Pages
+theme: minima
 markdown: kramdown
