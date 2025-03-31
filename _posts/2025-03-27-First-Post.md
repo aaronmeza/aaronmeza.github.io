@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Your Blog Post Title"
+title: "Hello World"
 date: 2024-03-27
 categories: blog
 ---
